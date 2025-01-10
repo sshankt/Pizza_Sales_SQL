@@ -10,9 +10,9 @@ This project involves analyzing **pizza sales data** using **SQL** to answer key
 2. **Revenue Analysis**: Calculated the total revenue generated from pizza sales.  
 3. **Highest-Priced Pizza**: Identified the most expensive pizza on the menu.  
 4. **Most Common Pizza Size**: Discovered the most frequently ordered pizza size.  
-5. **Pizza Categories**: Found the total quantity of pizzas ordered in each category.  
+5. **Pizza Categories**: Find the total quantity of pizzas ordered in each category.  
 6. **Top 3 Pizza Types**: Ranked the top 3 most ordered pizzas by revenue.  
-7. **Daily Trends**: Grouped orders by date to calculate the average pizzas ordered per day.  
+7. **Daily Trends**: Grouped orders by date to calculate the average daily pizzas.  
 8. **Category Revenue Analysis**: Identified the top 3 most ordered pizzas by revenue for each category.  
 9. **Cumulative Revenue**: Analyzed the cumulative revenue generated over time.
 
@@ -52,21 +52,11 @@ This project involves analyzing **pizza sales data** using **SQL** to answer key
 
 ---
 
-## 📈 Visuals
-![Pizza Sales Insights](placeholder-for-chart-or-graph.png)  
-_Visualizations include revenue trends, top-performing pizzas, and more._
 
----
-
-## 🙌 Acknowledgments
-Special thanks to **Ayushi Jain** and **WS Cube Tech** for their guidance and resources that made this analysis possible.
-
----
 
 ## 👩‍💻 About Me
 Hi, I’m **Shashank Tiwari**. I’m passionate about analyzing data to uncover insights and drive business decisions. This project reflects my ability to handle real-world datasets using SQL effectively.
 
 ---
+### Linkedin: https://www.linkedin.com/in/sshankt/ 
 
-Feel free to explore the project and share your feedback! 😊  
-**#SQL #DataAnalysis #PizzaSales #Joins #GroupBy #WindowFunctions**
