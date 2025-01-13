@@ -42,15 +42,9 @@ This project involves analyzing **pizza sales data** using **SQL** to answer key
 
 ---
 
-## 🛠️ How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
-   ```
-2. Import the provided data files into your database (if applicable).  
-3. Run the SQL queries from the **`/queries/`** folder using your preferred SQL editor.
+## 🛠️ How to saw Pdf
 
----
+ ### https://drive.google.com/file/d/17UzwNO-VV7pX2TLiK5QPzj_Ge03eC2bo/view?usp=drive_link
 
 
 
