@@ -42,8 +42,8 @@ This project involves analyzing **pizza sales data** using **SQL** to answer key
 
 ---
 
-## 🛠️ How to saw Pdf
-
+## 🛠️ How to saw SQL Pizza PPT
+### click This link 
  ### https://drive.google.com/file/d/17UzwNO-VV7pX2TLiK5QPzj_Ge03eC2bo/view?usp=drive_link
 
 
